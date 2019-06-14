@@ -3,7 +3,7 @@
 <html>
 <head> 
 <title>Bank Darah</title>
-<link rel="icon" href="images/logo.png" type="image/png">
+<link rel="icon" href="images/logo.jpg" type="image/png">
 <!-- STYLES & JQUERY 
 ================================================== -->
 <link rel="stylesheet" type="text/css" href="css/style.css"/>
@@ -21,7 +21,7 @@
 		<!--Logo-->
 		<div class="c4">
 			<a href="index.html">
-				<img src="images/logo.png" class="logo" alt="">
+				<img src="images/logo.jpg" class="logo" alt="">
 			</a>
 		</div>
 		<!--Menu-->

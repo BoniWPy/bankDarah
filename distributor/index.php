@@ -10,7 +10,7 @@ header('Location: ../index.php');
 <html>
 <head>
   <title>Bank Darah BANK DARAH BOROMEUS</title>
-  <link rel="icon" href="../images/logo.png" type="image/png">
+  <link rel="icon" href="../images/logo.jpg" type="image/png">
   <link href="../assets/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
   <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
   <link rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.min.css">

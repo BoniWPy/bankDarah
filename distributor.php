@@ -10,7 +10,7 @@ if(isset($_SESSION['nip'])== 0) {
 <html>
 <head> 
 <title>Bank Darah </title>
-<link rel="icon" href="images/logo.png" type="image/png">
+<link rel="icon" href="images/logo.jpg" type="image/png">
 <!-- STYLES & JQUERY 
 ================================================== -->
         <link href="assets/css/datatables/dataTables.bootstrap.css" rel="stylesheet" type="text/css" />
@@ -189,7 +189,7 @@ document.frmUser.submit();
 		<!--Logo-->
 		<div class="c3">
 			<a href="distributor.php"></br>
-			<img src="images/logo.png" class="logo" alt="">
+			<img src="images/logo.jpg" class="logo" alt="">
 			</a>
 		</div>
 		

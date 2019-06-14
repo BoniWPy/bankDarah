@@ -10,7 +10,7 @@ $pdf->SetMargins(2,1,1);
 $pdf->AliasNbPages();
 $pdf->AddPage();
 $pdf->SetFont('Times','B',20);
-$pdf->Image('logo.png',1,1,1.6,2);
+$pdf->Image('logo.jpg',1,1,1.6,2);
 $pdf->Image('pmi.png',26.5,1,2,2);
 $pdf->SetX(4);            
 $pdf->MultiCell(19.5,0.5,'DAFTAR STOK DARAH',0,'C');
