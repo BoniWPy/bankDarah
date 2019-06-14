@@ -580,7 +580,7 @@ if(isset($_SESSION['username'])== 0) {
     <div class="pull-right hidden-xs">
         
     </div>
-    <strong>Copyright &copy; 2017<a href="">Dewi</a>.</strong> UNMA Banten
+    <strong>Copyright &copy; 2019<a href="">&nbsp Delvi</a>.</strong> RS. BORROMEUS
   </footer>
 
   

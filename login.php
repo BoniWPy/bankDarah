@@ -41,7 +41,7 @@
 				<h1 class="titlehead">Login</h1>
 			</div>
 			<div class="c4">
-				<h1 class="titlehead rightareaheader"><i class="icon-map-marker"></i> Pandeglang</h1>
+				<h1 class="titlehead rightareaheader"><i class="icon-map-marker"></i> Bandung</h1>
 			</div>
 		</div>
 	</div>

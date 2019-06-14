@@ -169,7 +169,7 @@
 		<div class="c12">
 			<div class="wrapaction">
 				<div class="c9">
-					 Unit Transfusi Darah Cabang Pandeglang beralamatkan di Jl. Raya Labuan km 5 Cikoneng, dalam pelayanan penyediaan darah di UTD tersebut saat ini masih manual, mulai dari permintaan darah yang dicatat pada selembar kertas, dan pendataan stok darahpun di catat manual ke dalam sebuah buku besar, sehingga ketika darah dibutuhkan dalam keadaan mendesak, hal ini akan sangat menghambat kepada pihak yang membutuhkan darah tersebut
+					 Unit Transfusi Darah RS. BOROOMEUS dalam pelayanan penyediaan darah di UTD tersebut saat ini masih manual, mulai dari permintaan darah yang dicatat pada selembar kertas, dan pendataan stok darahpun di catat manual ke dalam sebuah buku besar, sehingga ketika darah dibutuhkan dalam keadaan mendesak, hal ini akan sangat menghambat kepada pihak yang membutuhkan darah tersebut
 				</div>
 				<div class="c3 text-center" style="margin-top:40px;">
 					<div class="actionbutton">
