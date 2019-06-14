@@ -12,7 +12,7 @@ if(isset($_SESSION['username'])== 0) {
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Bank Darah UTD PMI</title>
+  <title>Bank Darah RS. BORROMEUS</title>
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <link rel="stylesheet" href="../distributor/bower_components/bootstrap/dist/css/bootstrap.min.css">
   <link rel="stylesheet" href="../distributor/bower_components/font-awesome/css/font-awesome.min.css">
@@ -145,7 +145,7 @@ if(isset($_SESSION['username'])== 0) {
           </a>
           <ul class="treeview-menu">
             <li><a href="?page=penjualan&act=penjualan"><i class="fa fa-circle-o"></i> Penjualan</a></li>
-            <li><a href="?page=penjualan&act=distributor"><i class="fa fa-circle-o"></i> Daftar Distributor</a></li>
+            <li><a href="?page=penjualan&act=distributor"><i class="fa fa-circle-o"></i> Daftar Perawat</a></li>
           </ul>
         </li>
         <li class="treeview">
@@ -161,13 +161,13 @@ if(isset($_SESSION['username'])== 0) {
         </li>
         <li class="treeview">
           <a href="#">
-            <i class="fa fa-table"></i> <span>Data Distributor</span>
+            <i class="fa fa-table"></i> <span>Data Keluar</span>
             <span class="pull-right-container">
               <i class="fa fa-angle-left pull-right"></i>
             </span>
           </a>
           <ul class="treeview-menu">
-            <li><a href="?page=penjualan&act=data_distributor"><i class="fa fa-circle-o"></i> Data Distributor</a></li>
+            <li><a href="?page=penjualan&act=data_distributor"><i class="fa fa-circle-o"></i> Data Keluar</a></li>
           </ul>
         </li>
         
@@ -201,7 +201,7 @@ if(isset($_SESSION['username'])== 0) {
     <!-- Content Header (Page header) -->
     <section class="content-header">
       <h1>
-        Unit Trasfusi Darah
+        Unit Trasfusi Darah RS. BORROMEUS
         <small>PMI Cabang Bandung</small>
       </h1>
       <ol class="breadcrumb">
