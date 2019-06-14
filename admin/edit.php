@@ -1,11 +1,12 @@
 <?php
-    $server = "localhost";
-	$username = "root";
-	$password = "";
-	$database = "bank_darah";
+ //    $server = "localhost";
+	// $username = "root";
+	// $password = "";
+	// $database = "bank_darah";
 
-	mysql_connect($server,$username,$password) or die("Koneksi gagal");
-	mysql_select_db($database) or die("Database tidak bisa dibuka");
+	// mysql_connect($server,$username,$password) or die("Koneksi gagal");
+	// mysql_select_db($database) or die("Database tidak bisa dibuka");
+include "koneksi.php";
 
   
     $id_distributor = $_POST['id_distributor'];
