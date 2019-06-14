@@ -20,7 +20,7 @@
 <body onLoad="window.print()">
 
 <div class="row">
-<center><h3 style='margin-bottom:3px;'>UTD PMI PANDEGLNAG</h3>
+<center><h3 style='margin-bottom:3px;'>UTD PMI Bandung</h3>
     Struk Tagihan Pembayaran Pesanan<hr/></center>
 <section class="col-lg-3">
 	<div class="pull-right box-tools">

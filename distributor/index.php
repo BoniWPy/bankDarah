@@ -236,7 +236,7 @@ controlWindow=window.open("struk.php","","toolbar=no,location=no,directories=no,
 
                   <p>
                     Palang Merah Indonesia
-                    <small>Cabang Pandeglang</small>
+                    <small>Cabang Bandung</small>
                   </p>
                 </li>
                 <!-- Menu Body -->
@@ -279,7 +279,7 @@ controlWindow=window.open("struk.php","","toolbar=no,location=no,directories=no,
       <section class="content-header">
         <h1>
           BANK DARAH BOROMEUS
-          <small>Cabang Pandeglang</small>
+          <small>Cabang Bandung</small>
         </h1>
         <ol class="breadcrumb">
           <li><a href="index.php"><i class="fa fa-dashboard"></i> Home</a></li>
@@ -1091,7 +1091,7 @@ if (isset($_POST["simpanpsw"])) {
       <div class="pull-right hidden-xs">
         
       </div>
-      <strong>Copyright &copy; 2017<a href="">Dewi</a>.</strong> UNMA Banten
+      <strong>Copyright &copy; 2019<a href="">Delvi</a>.</strong> RS. BOROMEUS
     </div>
     <!-- /.container -->
   </footer>
