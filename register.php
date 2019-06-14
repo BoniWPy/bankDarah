@@ -42,7 +42,7 @@
 				<h1 class="titlehead">Registrasi</h1>
 			</div>
 			<div class="c4">
-				<h1 class="titlehead rightareaheader"><i class="icon-map-marker"></i> Pandeglang</h1>
+				<h1 class="titlehead rightareaheader"><i class="icon-map-marker"></i> Bandung</h1>
 			</div>
 		</div>
 	</div>
@@ -154,7 +154,7 @@ function validAngka(a)
 								<input type='password' name='confirmPassword'>
 							</div>
 							<div class='c12 noleftmargin'>
-								<label>Nama</label>
+								<label>Nama Perawat</label>
 								<input type='text' name='nama'>
 							</div>
 							<div class='c12 noleftmargin'>
@@ -165,25 +165,25 @@ function validAngka(a)
 								</select>
 							</div>
 							<div class='c12 noleftmargin'>
-								<label>NIP</label>
+								<label>NIP Perawat</label>
 								<input type='text' name='nip' size="16" onkeyup="validAngka(this)" maxlength="16" required>
 							</div>
 							
-							<div class='c12 noleftmargin'>
-								<label>Nama Instansi</label>
+							<!-- <div class='c12 noleftmargin'>
+								<label>Nama </label>
 								<input type='text' name='nama_instansi'>
 							</div>
 							<div class='c12 noleftmargin'>
 								<label>No Registrasi Instansi</label>
 								<input type='text' name='no_reg_instansi' size="16" onkeyup="validAngka(this)" maxlength="16" required>
-							</div>
-							<div class='c12 noleftmargin'>
+							</div> -->
+							<!-- <div class='c12 noleftmargin'>
 								<label>Alamat</label>
 								<textarea type='text' name='alamat' ></textarea>
 							</div>
-							
+							 -->
 							<div class='c12 noleftmargin'>
-								<label>Telpon</label>
+								<label>NO HP</label>
 								<input type='text' name='telp' size="16" onkeyup="validAngka(this)" maxlength="12" required>
 							</div>
 							

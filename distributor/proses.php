@@ -1,5 +1,5 @@
 <?php
-include "db/koneksi.php";
+include 'config.php'; ;
 $data=mysql_query("select * from darah");
 $op=isset($_GET['op'])?$_GET['op']:null;
 

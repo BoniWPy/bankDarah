@@ -7,7 +7,7 @@ if(isset($_SESSION['nip'])== 0) { /* Halaman ini tidak dapat diakses jika belum 
 
 ?>
 <?php
-include "db/koneksi.php";
+include "koneksi.php";
 $op=isset($_GET['op'])?$_GET['op']:null;
 if($op=='ambildarah'){
     $data=mysql_query("select * from darah");
@@ -31,11 +31,6 @@ if($op=='ambildarah'){
 
 	
 	if(mysql_num_rows($brg) >= 1 ){
-	
-	
-    
-	
-	
     echo "<thead>
             <tr>
                 <td>Id Keranjang</td>

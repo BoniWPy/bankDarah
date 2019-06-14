@@ -1,6 +1,5 @@
 <?php
-$conn = mysql_connect("localhost","root","");
-mysql_select_db("bank_darah",$conn);
+include "koneksi.php";
 if(isset($_POST["submit"]) && $_POST["submit"]!="") {
 $usersCount = count($_POST["id_distributor"]);
 for($i=0;$i<$usersCount;$i++) {

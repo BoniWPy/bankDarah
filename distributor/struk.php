@@ -1,6 +1,6 @@
 <?php 
   session_start();
-  include "db/koneksi.php";
+  include "koneksi.php";
   include "fungsi.php";
   if(isset($_SESSION['nip'])== 0) {  
 	header('Location: ../index.php'); 

@@ -430,11 +430,11 @@ controlWindow=window.open("struk.php","","toolbar=no,location=no,directories=no,
 			</section><!-- end main content -->		
 			<?php
 			
-			include 'db/koneksi.php';
-			$host = "10.0.1.5"; // nama host anda
-			$user = "dbuser"; // username dari host anda
-			$pass = "Hash2856"; //password dari host anda
-			$db   = "bank_darah"; // nama database yang anda miliki
+			include 'koneksi.php';
+			// $host = "10.0.1.5"; // nama host anda
+			// $user = "dbuser"; // username dari host anda
+			// $pass = "Hash2856"; //password dari host anda
+			// $db   = "bank_darah"; // nama database yang anda miliki
 
 			try {
 			$connect = new PDO("mysql:host={$host};dbname={$db}", $user, $pass);
@@ -723,7 +723,7 @@ controlWindow=window.open("struk.php","","toolbar=no,location=no,directories=no,
 							<table class='table'>
 							
 							";
-							include "db/koneksi.php";
+							include "koneksi.php";
                             $id_konfirmasi = $_GET['id_konfirmasi'];						
 							$ejah=mysql_query("select * from konfirmasi where id_konfirmasi='$id_konfirmasi' ");
 						
@@ -1091,7 +1091,7 @@ if (isset($_POST["simpanpsw"])) {
       <div class="pull-right hidden-xs">
         
       </div>
-      <strong>Copyright &copy; 2019<a href="">Delvi</a>.</strong> RS. BOROMEUS
+      <strong>Copyright &copy; 2019<a href="">&nbsp Delvi</a>.</strong> RS. BOROMEUS
     </div>
     <!-- /.container -->
   </footer>

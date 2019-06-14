@@ -1,7 +1,5 @@
 <?php
 include "koneksi.php";
-mysql_connect("localhost", "root", "");
-mysql_select_db("bank_darah");
 
 $id_penjualan = $_POST['id_penjualan'];
 $id_distributor = $_POST['id_distributor'];
