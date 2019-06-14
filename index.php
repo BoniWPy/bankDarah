@@ -38,7 +38,7 @@
 	<div id="da-slider" class="da-slider">
 		<!--Slide 1-->
 		<div class="da-slide">
-			<h2> PMI Pandeglang </h2>
+			<h2> PMI Bandung </h2>
 			<p>
 				Palang Merah Indonesia (PMI) adalah sebuah organisasi perhimpunan nasional di Indonesia yang bergerak dalam bidang sosial kemanusiaan.
 			<a href="#" class="da-link" style="width:202px;">utd pmi</a>
@@ -118,8 +118,8 @@
 		<!--INTRO-->
 		<div class="c12">
 			<div class="royalcontent">
-				<h1 class="royalheader">WEBSITE UTD PMI CABANG PANDEGALNG</h1>
-				<h1 class="title" style="text-transform:none;">Jl. Raya Pandeglang Cikoneng</h1>
+				<h1 class="royalheader">PMI CABANG BANDUNG</h1>
+				<h1 class="title" style="text-transform:none;">Jl. Aceh No.79, Cihapit, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40114</h1>
 			</div>
 		</div>
 		<!--Box 1-->

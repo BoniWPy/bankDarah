@@ -55,7 +55,7 @@ if(isset($_SESSION['username'])== 0) {
 
                 <p>
                   Palang Merah Indonesia
-                  <small>Cabang Pandeglang</small>
+                  <small>Cabang Bandung</small>
                 </p>
               </li>
               <!-- Menu Body -->
@@ -202,7 +202,7 @@ if(isset($_SESSION['username'])== 0) {
     <section class="content-header">
       <h1>
         Unit Trasfusi Darah
-        <small>PMI Cabang Pandeglang</small>
+        <small>PMI Cabang Bandung</small>
       </h1>
       <ol class="breadcrumb">
         <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>

@@ -18,7 +18,7 @@
 <body onLoad="window.print()">
 
 <div class="row">
-<center><h3 style='margin-bottom:3px;'>UTD PMI PANDEGLNAG</h3>
+<center><h3 style='margin-bottom:3px;'>UTD PMI BANDUNG</h3>
     Struk Bukti Pembayaran Pesanan<hr/></center>
 <section class="col-lg-3">
 	<div class="pull-right box-tools">
@@ -171,7 +171,7 @@
 			<td><center>Kepala UTD</center></td>
 		</tr>
 		<tr>
-			<td><center>Cabang Pandeglang</center></td>
+			<td><center>Cabang Bandung</center></td>
 		</tr>
 		
 		<tr>

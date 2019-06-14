@@ -711,11 +711,11 @@ document.frmUser.submit();
 	<div class="grid">
 		<div class="row">
 			<div class="c6">
-				 Dewi Ayu Ratnasari &copy; 2017. UNMA Banten.
+				 Delphi  &copy; 2019. RS. BOROMEUS.
 			</div>
 			<div class="c6">
 				<span class="right">
-				Website UTD PMI Cabang Pandeglang </span>
+				PMI Cabang Bandung </span>
 			</div>
 		</div>
 	</div>
