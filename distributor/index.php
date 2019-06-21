@@ -203,7 +203,7 @@ controlWindow=window.open("struk.php","","toolbar=no,location=no,directories=no,
         <div class="navbar-custom-menu">
           <ul class="nav navbar-nav">
             <?php
-			//include "koneksi.php";
+			// include "koneksi.php";
 			$conn = mysql_connect("10.0.1.5","dbuser","Hash2856");
 			mysql_select_db("bank_darah",$conn);
 			$nipo = $_SESSION['nip'];
